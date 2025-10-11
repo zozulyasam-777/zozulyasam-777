@@ -1,0 +1,23 @@
+# Hi! 👋 My name is Sam Zozulya
+
+I am a **database developer** who is learning **time series analysis** and planning to move into **recommendation systems**.
+
+🔧 My skills:
+- **Databases**: MS SQL, MySQL, PostgreSQL
+- **Programming languages**: Python, Java, PHP
+- **Data analysis**: pandas, numpy, matplotlib, statsmodels
+- **Forecasting**: ETS, ARIMA, Prophet
+
+📚 Right now:
+- Studying time series models
+- Building forecasting projects in Python
+- Preparing for machine learning and recommendation tasks
+
+📂 Projects:
+- [Influenza rate forecast in Russia](https://github.com/zozulyasam-777/flu-forecast-russia)
+- [Sales and inventory analysis](https://github.com/zozulyasam-777/sales-prediction-retail)
+
+📬 Contact me:  
+zozulya.sergey@gmail.com | [Telegram @sergey_z777](https://t.me/sergey_zozulya_42)
+
+> "I want to build systems that don’t just store data — but predict the future." 💡
