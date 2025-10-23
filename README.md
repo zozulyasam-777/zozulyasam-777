@@ -15,7 +15,7 @@ I am a **database developer** who is learning **time series analysis** and plann
 
 📂 Projects:
 - [Influenza rate forecast in Russia](https://github.com/zozulyasam-777/flu-forecast-russia)
-- [Sales and inventory analysis](https://github.com/zozulyasam-777/sales-prediction-retail)
+- [Evaluation and forecast of the work of young doctors by members of the jury and colleagues](https://github.com/zozulyasam-777/medical-voting)
 
 📬 Contact me:  
 zozulya.sergey@gmail.com | [Telegram @sergey_z777](https://t.me/sergey_zozulya_42)
