@@ -18,6 +18,7 @@ I am a **database developer** who is learning **time series analysis** and plann
 - [Evaluation and forecast of the work of young doctors by members of the jury and colleagues](https://github.com/zozulyasam-777/medical-voting)
 - [Self-hosted medical inventory monitoring system with automated shortage alerts and delivery forecasting](https://github.com/zozulyasam-777/med-inventory-alert)
 - [Hospital Demand Forecasting with LSTM and create model on Hugging Face](https://github.com/zozulyasam-777/hospital-lstm-project)
+- [A non-linear dialogue interface for LLMs. Explore multiple conversation paths simultaneously](https://github.com/zozulyasam-777/ai-branch-chat)
 
 📬 Contact me:  
 zozulya.sergey@gmail.com | [Telegram @sergey_z777](https://t.me/sergey_zozulya_42)
