@@ -20,6 +20,9 @@ I am a **database developer** who is learning **time series analysis** and plann
 - [Hospital Demand Forecasting with LSTM and create model on Hugging Face](https://github.com/zozulyasam-777/hospital-lstm-project)
 - [A non-linear dialogue interface for LLMs. Explore multiple conversation paths simultaneously](https://github.com/zozulyasam-777/ai-branch-chat)
 
+📂 My certificates:
+![Certificate](certificates/kaggle/pandas.png)
+
 📬 Contact me:  
 zozulya.sergey@gmail.com | [Telegram @sergey_z777](https://t.me/sergey_zozulya_42)
 
