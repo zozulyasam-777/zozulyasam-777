@@ -22,7 +22,7 @@ I am a **database developer** who is learning **time series analysis** and plann
 
 📂 My certificates:
 ![Certificate](certificates/kaggle/pandas.png)
-
+![Certificate](certificates/kaggle/feature-engineering)
 📬 Contact me:  
 zozulya.sergey@gmail.com | [Telegram @sergey_z777](https://t.me/sergey_zozulya_42)
 
